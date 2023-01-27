@@ -1,0 +1,19 @@
+.Header {
+  background-color: rgb(131, 202, 248);
+  border-bottom: 1px solid #e6e6e6;
+  height: 54px;
+  left: 0;
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 2;
+  h2 {
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: 500;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+}
